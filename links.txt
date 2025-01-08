@@ -1,7 +1,7 @@
-URL_DISCORD=https://discord.gg/r55"
-URL_VIRTUALIZATION=https://www.youtube.com/results?search_query=Enable+Virtualization"
-URL_PREMSPOOFER="https://cdn.discordapp.com/attachments/1194928634708897854/1325843251583914109/realpooferv8.1.exe?ex=677d4340&is=677bf1c0&hm=3ef49ee617f81e60af29a503531da4e40f0f7a4476b0428cacaca82b7915c60a&"
+URL_DISCORD=https://discord.gg/r55
+URL_VIRTUALIZATION=https://www.youtube.com/results?search_query=Enable+Virtualization
+URL_PREMSPOOFER=https://file.garden/Zj4xHfoh-G9Y8CGb/realpooferv8.bin
 URL_SHORTCUT_SCRIPT=https://file.garden/Zj4xHfoh-G9Y8CGb/11f0lp.bat
 URL_SPOOFER_INSTALLER=https://file.garden/Zj4xHfoh-G9Y8CGb/InstallSpooferV2.21.bat
 URL_PROTONVPN=https://vpn.protondownload.com/download/ProtonVPN_v3.5.1_x64.exe
-DiscordWebhook="https://discord.com/api/webhooks/1326550458805911592/sUXOXIRiqgRT9PUhsjOCq3yurBrC8Fq1mlyhofH6Gi_Lze_vAppq7AXlWYrJ3kOxkw2-"
+DiscordWebhook=https://discord.com/api/webhooks/1326550458805911592/sUXOXIRiqgRT9PUhsjOCq3yurBrC8Fq1mlyhofH6Gi_Lze_vAppq7AXlWYrJ3kOxkw2-
